@@ -13,7 +13,7 @@
 
 <div>
     <img src="https://cdn.discordapp.com/attachments/1137131478657024131/1280933865271332969/no_vpn.jpeg?ex=66d9e220&is=66d890a0&hm=828473241ed8b9148ac9faeea227a709e37df480f14d15b86111051bcbeedb12&" alt="No VPN ?" width="286"/>
-    <img src="https://cdn.discordapp.com/attachments/1137131478657024131/1280934667167465552/ton_cv_fait_il_la_difference.jpg?ex=66d9e2df&is=66d8915f&hm=255c9f8e097ac03f0e77746f7cdb5fc8d17c92d6ea95a160d0b354a48f52566b&" alt="Ton CV fait il la différence ? Clique ici pour le savoir" width="170">
+    <img src="https://cdn.discordapp.com/attachments/1137131478657024131/1280934667167465552/ton_cv_fait_il_la_difference.jpg?ex=66e46edf&is=66e31d5f&hm=0628b5e00f8dbc8b98eceae3c8d3ce6f47a88f563aa7c54a9f22a583d71701dc&" alt="Ton CV fait il la différence ? Clique ici pour le savoir" width="170">
     <img src="https://cdn.discordapp.com/attachments/1137131478657024131/1280939851260362816/solidedge_fusion_drake.jpg?ex=66d9e7b3&is=66d89633&hm=886ad6458877dcffe04c1fc99cc672504cc8a3908d5d5cd68dcd8ee64568ad09&" alt="solidedge fusion drake meme" width="297">
 </div>
 
